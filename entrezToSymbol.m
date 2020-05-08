@@ -14,8 +14,8 @@ function entrezToSymbol
 
 %INPUT ARGUMENTS: None.
 
-%OUTPUT ARGUMENTS: None, but a new CSV file is created for each input CSV
-%file, with the prefix "symbol" in the filename.
+%OUTPUT ARGUMENTS: None, but a new CSV file is created for each input
+%CSV/TXT file, with the prefix "symbol" in the filename.
 
 %% FOR THE TXT FILE:
 
